@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Generico - flujoab</name>
+  <icon>Gflujoab.xpm</icon>
+  <connections>
+    <point x="5"   y="0"/>
+    <point x="5"  y="10"/>  
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="0" y1="0" x2="10" y2="8" resize="no"/>
+  <svg:svg width="10" height="10">
+     <svg:polygon points="0,6   0,1   10,1   10,6  5,9 "
+                     svg:style="fill:default"/>		     
+     <svg:path d="m 5,0 v 1"/>
+     <svg:path d="m 5,10 v -1"/>
+  </svg:svg>
+</shape>

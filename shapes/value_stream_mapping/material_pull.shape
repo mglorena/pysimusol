@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Value Stream Mapping - Material Pull</name>
+  <icon>material_pull.png</icon>
+  <connections>
+    <point x="18.6007" y="13.3457" main="yes"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:path d="M 19,10.5 A 1.94163,1.94163 0 1 0 18.181,13.5305"/>
+    <svg:polygon style="fill: foreground" points="18.5955,14.0528 18.6007,13.3457 17.8936,13.3405 "/>
+  </svg:svg>
+</shape>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+ <name>Simusol - Generico</name>
+ <name xml:lang="es">Simusol - Generico</name>
+ <description>Components for generic circuit diagrams</description>
+ <description xml:lang="es">Componentes para diagramas de circuitos genericos
+ </description>
+ <contents>
+ <!--add shapes here-->
+  <object name="Generico - nodo">
+   <description>node</description>
+   <description xml:lang="es">nodo</description>
+  </object>
+  <object name="Generico - nodod">
+   <description>repeated node</description>
+   <description xml:lang="es">nodo repetido</description>
+  </object>
+  <object name="Generico - 0">
+   <description>0</description>
+   <description xml:lang="es">0 generico</description>
+  </object>
+  <object name="UML - Object">
+   <description>box to put data</description>
+   <description xml:lang="es">cuadro para poner informacion</description>
+  </object> 
+  <object name="Generico - hfuente">
+   <description>generic source; horizontally aligned; E</description>
+   <description xml:lang="es">fuente generica; alineada horizontalmente; E
+   </description>
+  </object>
+  <object name="Generico - vfuente">
+   <description>generic source; vertically aligned; E</description>
+   <description xml:lang="es">fuente generica; alineada verticalmente; E
+   </description>
+  </object>
+  <object name="Generico - hcapacitor">
+   <description>generic capacitor; horzontally aligned; C
+   </description>
+   <description xml:lang="es">capacitor generico; alineado horizontalmente; C
+   </description>
+  </object>
+  <object name="Generico - vcapacitor">
+   <description>generic capacitor; vertically aligned; C
+   </description>
+   <description xml:lang="es">capacitor generico; alineado verticalmente; C
+   </description>
+  </object>
+  <object name="Generico - hresistor">
+   <description>generic resistor; horizontally aligned; R</description>
+   <description xml:lang="es">resistor generico; alineado horizontalmente; R
+   </description>
+  </object>
+  <object name="Generico - vresistor">
+   <description>generic resistor; vertically aligned; R</description>
+   <description xml:lang="es">resistor generico; alineado verticalmente; R
+   </description>
+  </object>
+  <object name="Generico - flujod">
+   <description>generic flux; pointing right; J</description>
+   <description xml:lang="es">flujo generico; hacia la derecha; J</description>
+  </object>
+  <object name="Generico - flujoab">
+   <description>generic flux; pointing down; J</description>
+   <description xml:lang="es">flujo generico; hacia abajo; J</description>
+  </object>
+  <object name="Generico - hinductor">
+   <description>generic inductor; horizontally aligned; L</description>
+   <description xml:lang="es">inductor generico; alineado horizontalmente; L
+   </description>
+  </object>
+  <object name="Generico - vinductor">
+   <description>generic inductor; vertically aligned; L</description>
+   <description xml:lang="es">inductor generico; alineado verticalmente; L
+   </description>
+  </object>
+  <object name="Modelos - Ggeneral">
+   <description>generic general model; T</description>
+   <description xml:lang="es">modelo general generico; T</description>
+  </object>
+ </contents>
+</sheet>

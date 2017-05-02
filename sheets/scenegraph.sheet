@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+
+<name>Scene graph</name>
+<description>Scene graph symbols</description>
+<contents>
+
+<object name="scene graph - transform">
+<description>Transform</description></object>
+<object name="scene graph - group">
+<description>Group node</description></object>
+<object name="scene graph - appearance">
+<description>Appearance</description></object>
+<object name="scene graph - separator">
+<description>Separator</description></object>
+<object name="scene graph - shape">
+<description>Shape</description></object>
+<object name="scene graph - engine">
+<description>Engine</description></object>
+<object name="scene graph - light">
+<description>Light</description></object>
+<object name="scene graph - manipulator">
+<description>Manipulator</description></object>
+<object name="scene graph - metric">
+<description>Metric</description></object>
+<object name="scene graph - camera">
+<description>Camera</description></object>
+<object name="scene graph - switch">
+<description>Switch</description></object>
+<object name="scene graph - nodekit">
+<description>Node Kit</description></object>
+<object name="scene graph - subgraph">
+<description>Subgraph</description></object>
+<object name="scene graph - soselection">
+<description>SoSelection</description></object>
+<object name="scene graph - callback">
+<description>Callback</description></object>
+<object name="scene graph - component">
+<description>Component</description></object>
+<object name="scene graph - field">
+<description>Field</description></object>
+<object name="scene graph - property">
+<description>Property</description></object>
+<object name="scene graph - realtimeglobalfield">
+<description>Real time global field</description></object>
+</contents></sheet>

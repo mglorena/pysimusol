@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+ <name>Simusol - Modelos</name>
+ <name xml:lang="es">Simusol - Modelos</name>
+ <description>Modelos para Simusol</description>
+ <description xml:lang="es">Modelos para Simusol</description>
+ <contents>
+ <!--add shapes here-->
+  <object name="Modelos - Egeneral">
+   <description>electrical general model; T</description>
+   <description xml:lang="es">modelo general electrico; T</description>
+  </object>
+  <object name="Modelos - Ggeneral">
+   <description>generic general model; T</description>
+   <description xml:lang="es">modelo general generico; T</description>
+  </object>
+  <object name="Modelos - general">
+   <description>termal general model; T</description>
+   <description xml:lang="es">modelo general termico; T</description>
+  </object>
+  <object name="Modelos - integrador">
+   <description>integrator; T</description>
+   <description xml:lang="es">integrador; T</description>
+  </object>
+  <object name="Modelos - termistor">
+   <description>termistor; T</description>
+   <description xml:lang="es">termistor; T</description>
+  </object>
+ </contents>
+</sheet>

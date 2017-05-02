@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Termico - hconductiva</name>
+  <icon>hconductiva.xpm</icon>
+  <connections>
+    <point x="-1"   y="5"/>    
+    <point x="11"  y="5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="0" y1="3" x2="10" y2="7"  resize="no"/>
+  <svg:svg width="10" height="10">
+     <svg:rect x="0" y="0" width="10" height="10" svg:style="fill: #40ffff"/> 
+     <svg:path d="M 2,0 v 10"/> 
+     <svg:path d="M 8,0 v 10" />   
+     <svg:path d="M 0,5 h -1."/> 
+     <svg:path d="M 10,5 h 1" />  
+     <svg:circle cx="-1" cy = "3" r=".3"  svg:style="stroke: #00ff00"/>
+   </svg:svg> 
+</shape>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+ <name>Simusol - Electrico</name>
+ <name xml:lang="es">Simusol - Elecrico</name>
+ <description>Componentes para diagramas de circuitos electricos
+ </description>
+ <contents>
+ <!--add shapes here-->
+  <object name="loli - llaveabierta">
+   <description>llave abierta</description>
+   <description xml:lang="es">llave abierta</description>
+  </object>
+  <object name="loli - llavecerrada">
+   <description>llave cerrada</description>
+   <description xml:lang="es">llave cerrada</description>
+  </object>
+  <object name="Electrico - nodo">
+   <description>node</description>
+   <description xml:lang="es">nodo</description>
+  </object>
+  <object name="Electrico - nodod">
+   <description>repeated node</description>
+   <description xml:lang="es">nodo repetido</description>
+  </object>
+  <object name="Electrico - tierra">
+   <description>ground</description>
+     <description xml:lang="es">tierra</description></object>
+  <object name="UML - Object">
+   <description>box to put data</description>
+   <description xml:lang="es">cuadro para poner informacion</description>
+  </object>
+  <object name="Electrico - hcapacitor">
+   <description>capacitor; horizontally aligned; C</description>
+   <description xml:lang="es">capacitor; alineado horizontalmente; C
+   </description>
+  </object>
+  <object name="Electrico - vcapacitor">
+   <description>capacitor; vertically aligned; C</description>
+   <description xml:lang="es">capacitor; alineado horizontalmente; C
+   </description>
+  </object>
+  <object name="Electrico - vresistor">
+   <description>resistor; vertically aligned; R</description>
+   <description xml:lang="es">resistor; alineado verticalmente; R</description>
+  </object>
+  <object name="Electrico - hresistor">
+   <description>resistor; horizontally aligned; R</description>
+   <description xml:lang="es">resistor; alineado horizontalmente; R
+   </description>
+  </object>
+  <object name="Electrico - vinductor">
+   <description>inductor; vertically aligned; L</description>
+   <description xml:lang="es">inductor; alineado verticalmente; L
+   </description>
+  </object>
+  <object name="Electrico - hinductor">
+   <description>inductor; horizontalyy aligned; L</description>
+   <description xml:lang="es">inductor; alineado horizontalmente; L
+   </description>
+  </object>
+  <object name="Electrico - vfem">
+   <description>fem; vertically aligned; E</description>
+   <description xml:lang="es">fem; alineada verticalmente; E</description>
+  </object>
+  <object name="Electrico - hfem">
+   <description>fem; horizontally aligned; E</description>
+   <description xml:lang="es">fem; alineada horizontalmente; E</description>
+  </object>
+  <object name="Electrico - hcorriente">
+   <description>current source; horizontally aligned; J</description>
+   <description xml:lang="es">fuente de corriente alineada horizontalmente; J
+   </description>
+  </object>
+  <object name="Electrico - vcorriente">
+   <description>current source; verticalyy aligned; J</description>
+   <description xml:lang="es">fuente de corriente; alineada verticalmente; J
+   </description>
+  </object><object name="Modelos - htransformador">
+   <description>transformer; horizontally algned; T</description>
+   <description xml:lang="es">transformador alineado horizontalmente; T
+   </description>
+  </object>
+  <object name="Modelos - Egeneral">
+   <description>electric general model; T</description>
+   <description xml:lang="es">modelo general electrico; T
+   </description>
+  </object>
+ </contents>
+</sheet>

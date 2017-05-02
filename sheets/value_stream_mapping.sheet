@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Value Stream Mapping</name>
+  <description>Analyze the flow of materials and information</description>
+  <contents>
+    <object name="Value Stream Mapping - Happy Face">
+      <description>Happy Face</description>
+    </object>
+    <object name="Geometric - Perfect Circle">
+      <description>Harvey Balls 0</description>
+    </object>
+    <object name="Network - Storage">
+      <description>MRP / ERP</description>
+    </object>
+    <object name="Geometric - Isosceles Triangle">
+      <description>Storage</description>
+    </object>
+    <object name="SDL - Task">
+      <description>Control Box</description>
+    </object>
+    <object name="BPMN - Intermediate-Event">
+      <description>Sequenced Pull</description>
+    </object>
+    <object name="Value Stream Mapping - Inventory">
+      <description>Inventory</description>
+    </object>
+    <object name="Value Stream Mapping - Push">
+      <description>Push</description>
+    </object>
+    <object name="Value Stream Mapping - Air Transport">
+      <description>Air Transport</description>
+    </object>
+    <object name="Value Stream Mapping - Electronic Information Right">
+      <description>Electronic Information Right</description>
+    </object>
+    <object name="Value Stream Mapping - Glasses">
+      <description>Glasses</description>
+    </object>
+    <object name="Value Stream Mapping - Kanban Minimum and Maximum">
+       <description>Kanban Minimum and Maximum</description>
+    </object>
+    <object name="Value Stream Mapping - Kanban Post">
+      <description>Kanban Post</description>
+    </object>
+    <object name="Value Stream Mapping - Kanban Production">
+      <description>Kanban Production</description>
+    </object>
+    <object name="Value Stream Mapping - Kanban Withdrawal">
+      <description>Kanban Withdrawal</description>
+    </object>
+    <object name="Value Stream Mapping - Material Pull">
+      <description>Material Pull</description>
+    </object>
+    <object name="Value Stream Mapping - Rail Transport">
+      <description>Rail Transport</description>
+    </object>
+    <object name="Value Stream Mapping - Storage">
+      <description>Storage</description>
+    </object>
+    <object name="Value Stream Mapping - Supplier or Customer">
+      <description>Supplier or Customer</description>
+    </object>
+    <object name="Value Stream Mapping - Working Cell Unit">
+      <description>Working Cell Unit</description>
+    </object>
+  </contents>
+</sheet>

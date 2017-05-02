@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+ <name>Simusol - Termico</name>
+ <name xml:lang="es">Simusol - Termico</name>
+ <description>Components for thermal circuit diagrams</description>
+ <description xml:lang="es">Componentes para diagramas de circuitos termicos
+ </description>
+ <contents>
+ <!--add shapes here-->
+  <object name="Termico - nodo">
+   <description>node</description>
+   <description xml:lang="es">nodo</description>
+  </object>
+  <object name="Termico - nodod">
+   <description>repeated node</description>
+   <description xml:lang="es">nodo repetido</description>
+  </object>
+  <object name="Termico - 0gradosc">
+   <description>0 Celsius</description>
+   <description xml:lang="es">0 grados centigrados</description>
+  </object>
+  <object name="UML - Object">
+   <description>box to put data</description>
+   <description xml:lang="es">cuadro para poner informacion</description>
+  </object> 
+  <object name="Termico - fuente">
+   <description>temperature source; e</description>
+   <description xml:lang="es">fuente de temperatura; e</description>
+  </object>
+  <object name="Termico - acumulador">
+   <description>accumulator; c</description>
+   <description xml:lang="es">acumulador; c</description>
+  </object>
+  <object name="Termico - hconvectiva">
+   <description>convective resistor; horizontaly aligned; R</description>
+   <description xml:lang="es">resistor convectivo; alineado horizontalmente; R
+   </description>
+  </object>
+  <object name="Termico - vconvectiva">
+   <description>convective resistor; vertically aligned; R</description>
+   <description xml:lang="es">resistor convectivo; alineado verticalmente; R
+   </description>
+  </object>
+  <object name="Termico - hconductiva">
+   <description>conductive resistor; horizontally aligned; R</description>
+   <description xml:lang="es">resistor conductivo; alineado horizontalmente; R
+   </description>
+  </object>
+  <object name="Termico - vconductiva">
+   <description>conductive resistor; vertically aligned; R</description>
+   <description xml:lang="es">resistor conductivo; alineado verticalmente; R
+  </description>
+   </object>
+   <object name="Termico - hradiativa">
+  <description>radiative resistor; horizontally aligned; R</description>
+  <description xml:lang="es">resistor radiante; alineado horizontalmente; R
+  </description>
+ </object>
+ <object name="Termico - flujod">
+  <description>heat flux; to the right; J</description>
+  <description xml:lang="es">flujo de calor; hacia la derecha; J</description>
+ </object>
+ <object name="Termico - flujoi">
+  <description>heat flux; to the left; J</description>
+  <description xml:lang="es">flujo de calor; hacia la izquierda; J
+  </description>
+  </object>
+  <object name="Modelos - general">
+   <description>thermal general model; T</description>
+   <description xml:lang="es">modelo general termico; T</description>
+  </object>
+</contents>
+</sheet>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Value Stream Mapping - Push</name>
+  <icon>Push.png</icon>
+  <svg:svg>
+    <svg:polygon style="fill: default" points="-41,3 -37,3 -37,2.5 -35.5,3.5 -37,4.5 -37,4 -41,4 "/>
+    <svg:rect style="fill: foreground" x="-40.4" y="3" width="0.5" height="1"/>
+    <svg:rect style="fill: foreground" x="-39.2" y="3" width="0.5" height="1"/>
+    <svg:rect style="fill: foreground" x="-38" y="3" width="0.5" height="1"/>
+  </svg:svg>
+  <connections>
+    <point x="-41" y="3.5"/>
+    <point x="-35.5" y="3.5" main="yes"/>
+  </connections>
+</shape>

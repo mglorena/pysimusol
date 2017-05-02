@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Renewable Energy</name>
+  <description>Objects related to renewable energy</description>
+  <contents>
+    <object name="Renewable Energy - Wind Turbine">
+      <description>Wind Turbine</description>
+    </object>
+    <object name="Renewable Energy - Solar Module">
+      <description>Solar Module</description>
+    </object>
+    <object name="Renewable Energy - Wind Measurement Tower">
+      <description>Wind Measurement Tower</description>
+    </object>
+    <object name="Renewable Energy - Cup Anemometer">
+      <description>Cup Anemometer</description>
+    </object>
+    <object name="Renewable Energy - Wind Vane">
+      <description>Wind Vane</description>
+    </object>
+    <object name="Renewable Energy - Data Logger">
+      <description>Data Logger</description>
+    </object>
+    <object name="Renewable Energy - Temperature and Humidity Sensor">
+      <description>Temperature and Humidity Sensor</description>
+    </object>
+  </contents>
+</sheet>

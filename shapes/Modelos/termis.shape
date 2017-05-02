@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Modelos - termis</name>
+  <icon>termistor.png</icon>
+  <connections>
+    <point x="0.95" y="5.65"/>
+    <point x="6.4" y="0.5"/>
+    <point x="7.15" y="2.65"/>
+    <point x="0.4" y="4.55"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="4" y1 ="4" x2="7" y2 = "7" resize ="no"/>
+  <svg:svg>
+    <svg:ellipse style="fill: #ffffff" cx="3.425" cy="3.05" rx="1.725" ry="2.65"/>
+    <svg:ellipse style="stroke-width: 0.1; stroke: #000000" cx="3.425" cy="3.05" rx="1.725" ry="2.65"/>
+    <svg:ellipse style="fill: #ffffff" cx="3.9" cy="2" rx="0.15" ry="0.15"/>
+    <svg:ellipse style="stroke-width: 0.1; stroke: #000000" cx="3.9" cy="2" rx="0.15" ry="0.15"/>
+    <svg:ellipse style="fill: #ffffff" cx="5.9" cy="2.65" rx="0.2" ry="0.2"/>
+    <svg:ellipse style="stroke-width: 0.1; stroke: #000000" cx="5.9" cy="2.65" rx="0.2" ry="0.2"/>
+    <svg:line style="stroke-width: 0.1; stroke: #000000" x1="6.35" y1="0.6" x2="4.00607" y2="1.89393"/>
+    <svg:path style="stroke-width: 0.1; stroke: #000000" d="M 0.45 4.45 C 1.4,4.85 2.5,4.4 3.25,3.6"/>
+    <svg:path style="stroke-width: 0.1; stroke: #000000" d="M 1 5.65 C 1.75,5.8 2.9,4.8 3.05,3.7"/>
+    <svg:line style="stroke-width: 0.1; stroke: #000000" x1="5.9" y1="2.65" x2="7.05" y2="2.65"/>
+  </svg:svg>
+</shape>

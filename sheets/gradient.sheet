@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>Gradient</name>
+  <description>Basic gradients, semitransparent</description>
+  <contents>
+    <object name="Gradient - Light-dark horizontal gradient box">
+      <description>Light-dark horizontal gradient box</description>
+    </object>
+    <object name="Gradient - Dark-light horizontal gradient box">
+      <description>Dark-light horizontal gradient box</description>
+    </object>
+    <object name="Gradient - Light-dark vertical gradient box">
+      <description>Light-dark vertical gradient box</description>
+    </object>
+    <object name="Gradient - Dark-light vertical gradient box">
+      <description>Dark-light vertical gradient box</description>
+    </object>
+    <object name="Gradient - Light-dark horizontal gradient">
+      <description>Light-dark horizontal gradient</description>
+    </object>
+    <object name="Gradient - Dark-light horizontal gradient">
+      <description>Dark-light horizontal gradient</description>
+    </object>
+    <object name="Gradient - Light-dark vertical gradient">
+      <description>Light-dark vertical gradient</description>
+    </object>
+    <object name="Gradient - Dark-light vertical gradient">
+      <description>Dark-light vertical gradient</description>
+    </object>
+  </contents>
+</sheet>

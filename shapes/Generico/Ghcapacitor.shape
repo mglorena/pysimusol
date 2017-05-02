@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Generico - hcapacitor</name>
+  <icon>Ghcapacitor.xpm</icon>
+  <connections>
+    <point x="0"   y="5"/>
+    <point x="11"   y="5"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="2" y1="3" x2="10" y2="7" resize ="no"/>
+  <svg:svg width="10" height="10">
+    <svg:path d="M 2.5,0
+                 c -1.5,0 -1.5,10 0,10 
+		 c 1.5,0 1.5,-10 0,-10 
+                 h 5
+		 c 1.5,0 1.5,10 0,10 
+		 h -5 
+		 c 1.5,0 1.5,-10 0,-10 
+                 z" style="fill: default"/> 
+    <svg:path d="M 0,5 h 2.5"/>     
+    <svg:path d="M 11,5 h -2.5"/>     
+  </svg:svg> 
+</shape>

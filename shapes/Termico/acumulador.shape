@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Termico - acumulador</name>
+  <icon>acumulador.xpm</icon>
+  <connections>
+    <point x="5"   y="0"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="0" y1="3" x2="10" y2="7" resize ="no"/>
+  <svg:svg width="10" height="10">
+    <svg:path d="M 0,2.5
+                 c 0,-1.5 10,-1.5 10,0 
+		 c 0,1.5 -10,1.5 -10,0 
+                 v 3
+		 c 0,1.5 10,1.5 10,0 
+		 v -3 
+		 c 0,1.5 -10,1.5 -10,0 
+                 z" style="fill:#b2f413"/> 
+    <svg:path d="M 5,0 v 1.5"/>     
+    <svg:path d=" M 0,6.8 
+                  l 10,0 -5,2 -5,-2 
+		  z" style="fill:#ffff00"/>     
+  </svg:svg> 
+</shape>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Modelos - integrador</name>
+  <icon>integrador.png</icon>
+  <connections>
+    <point x="6.9" y="6.6" main="yes"/>
+  </connections>
+  <textbox x1="7.9" y1="6.5" x2="8.2" y2="6.7" resize="no"/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: #ffffff" x="3.3" y="3.2" width="7.2" height="6.8"/>
+    <svg:rect style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.3" y="3.2" width="7.2" height="6.8"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 7.6 3.85 C 4.45,3.8 9.8,9.2 6,8.95"/>
+  </svg:svg>
+</shape>

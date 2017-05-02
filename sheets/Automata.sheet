@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>Automata</name>
+<description>Symbols for designing Automata</description>
+<contents>
+	<object name="Start State"><description>Start State</description></object>
+	<object name="Intermediate State"><description>Intermediate State</description></object>
+	<object name="Final State"><description>Final State</description></object>
+	<object name="Start Final State"><description>Start/Final State</description></object>
+</contents>
+</sheet>

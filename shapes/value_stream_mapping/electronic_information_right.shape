@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Value Stream Mapping - Electronic Information Right</name>
+  <icon>electronic_information_right.png</icon>
+  <connections>
+   <point x="3" y="7"/>
+   <point x="10.5" y="6.5" main="yes"/>
+  </connections>
+  <svg:svg>
+    <svg:line x1="3" y1="7" x2="7.5" y2="7"/>
+    <svg:line x1="7.5" y1="7" x2="5.5" y2="6.5"/>
+    <svg:line x1="5.5" y1="6.5" x2="10.5" y2="6.5"/>
+    <svg:line x1="10.5" y1="6.5" x2="9.7" y2="6.12"/>
+    <svg:line x1="10.5" y1="6.5" x2="9.7" y2="6.89375"/>
+  </svg:svg>
+</shape>

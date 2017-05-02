@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Termico - hradiativa</name>
+  <icon>hradiativa.xpm</icon>
+  <connections>  
+    <!--point x="5"   y="0"/-->
+    <!--point x="5"  y="10"/-->
+    <point x="-1"   y="5"/>
+    <point x="11"  y="5"/> 
+  </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1="0" y1="3" x2="11" y2="7" resize ="no" />
+  <svg:svg width="10" height="10">
+      <svg:path d="M 0,0 
+                   l  2.5,2.5  2.5,-2.5  2.5,2.5  2.5,-2.5
+                      0,10 
+		     -2.5,-2.5  -2.5,2.5  -2.5,-2.5   -2.5,2.5 
+		      0,-10 
+                   z" svg:style="fill: #40ffff"/>   
+      <svg:path d="M 0,5 h -1.0"/>
+      <svg:path d="M 10,5 h 1.0"/> 
+      <svg:circle cx="-1" cy="3" r="0.3" svg:style="stroke: #00ff00"/>
+  </svg:svg>  
+</shape>

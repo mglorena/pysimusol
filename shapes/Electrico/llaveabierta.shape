@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>loli - llaveabierta</name>
+  <icon>llaveabierta.png</icon>
+  <connections>
+    <point x="25.75" y="20.4"/>
+    <point x="19.6" y="20.3"/>
+   </connections>
+  <aspectratio type="fixed"/>
+  <textbox x1 ="19.6" y1 = "21" x2 = "25.75" y2 = "21" resize="no"/> 
+  <svg:svg width="7.0" height="6.0">
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="23.9343" y1="20.354" x2="25.75" y2="20.4"/>
+    <svg:ellipse style="fill: #ffffdd" cx="23.3254" cy="19.2246" rx="0.2275" ry="0.2275"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="23.3254" cy="19.2246" rx="0.2275" ry="0.2275"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.0004 19.2246 L 23.0979,19.2246"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.6504 19.2246 L 23.5529,19.2246"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.3254 18.8996 L 23.3254,18.9971"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.3254 19.5496 L 23.3254,19.4521"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="23.3254" y="19.4246" font-size="0.8" textLength="0"></svg:text>
+    <svg:ellipse style="fill: #ffff00" cx="23.6803" cy="20.354" rx="0.177781" ry="0.177781"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="23.6803" cy="20.354" rx="0.177781" ry="0.177781"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.4263 20.354 L 23.5025,20.354"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.9342 20.354 L 23.8581,20.354"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.6803 20.1 L 23.6803,20.1762"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 23.6803 20.6079 L 23.6803,20.5318"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="23.6803" y="20.554" font-size="0.8" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="23.0004" y1="19.2246" x2="21.5488" y2="20.1876"/>
+    <svg:ellipse style="fill: #ffff00" cx="21.3203" cy="20.3391" rx="0.224219" ry="0.224219"/>
+    <svg:ellipse style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" cx="21.3203" cy="20.3391" rx="0.224219" ry="0.224219"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 21 20.3391 L 21.0961,20.3391"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 21.6406 20.3391 L 21.5445,20.3391"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 21.3203 20.0188 L 21.3203,20.1149"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 21.3203 20.6594 L 21.3203,20.5633"/>
+    <svg:text style="fill: #000000; text-anchor:middle; font-family: sans; font-style: normal; font-weight: normal" x="21.3203" y="20.5391" font-size="0.8" textLength="0"></svg:text>
+    <svg:line style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x1="21" y1="20.3391" x2="19.6" y2="20.3"/>
+  </svg:svg>
+</shape>

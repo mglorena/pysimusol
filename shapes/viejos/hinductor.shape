@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Electrico - Horizontal Inductor</name>
+  <icon>hinductor.xpm</icon>
+  <connections>
+    <point x="0" y="2"/>
+    <point x="11" y="2"/>
+  </connections>
+  <aspectratio type = "fixed"/>
+  <textbox x1="0" y1="4" x2 ="10" y2="9" resize = "no"/>
+  <svg:svg width="10" height="10">
+  <svg:rect x="0" y="0" width="10" height="10" svg:style="stroke:none"/>
+    <svg:path d="M 0,2 h 2
+                 c -0.2,-2 -1,-4 1.2,-4 
+                 s 3,4 1.2,4 s -1,-4 1.2,-4 
+                 s 3,4 1.2,4 s -1,-4 1.2,-4
+                 s 1.7,3 1.2,4 h 2"/>
+  </svg:svg>
+</shape>

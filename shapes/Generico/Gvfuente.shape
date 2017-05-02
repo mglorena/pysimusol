@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Generico - vfuente</name>
+  <icon>Gvfuente.xpm</icon>
+  <connections>
+    <point x="5"   y="10"/>    
+    <point x="5"   y="-2"/>    
+  </connections>
+  <aspectratio type="fixed"/> 
+  <textbox x1="-1" y1="2" x2="11" y2="5" resize ="no"/>
+  <svg:svg width="10" height="10">
+     <svg:polygon points=" -1,0    2,8     8,8    11,0"
+                   svg:style="fill: default"/>
+     <svg:path d=" M 5,0 v -2"/> 
+     <svg:path d=" M 5,8 v 2"/> 
+</svg:svg>
+</shape>

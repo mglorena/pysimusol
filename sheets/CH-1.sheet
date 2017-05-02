@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>CH-1 notation</name>
+  <description>CH-1 notation</description>
+  <contents>
+    <object name="CH-1 - Work">
+      <description>Work</description>
+    </object>
+    <object name="CH-1 - Event">
+      <description>Event</description>
+    </object>
+    <object name="CH-1 - Storage">
+      <description>Storage</description>
+    </object>
+    <object name="CH-1 - Employee">
+      <description>Employee</description>
+    </object>
+    <object name="CH-1 - Department">
+      <description>Department</description>
+    </object>
+    <object name="CH-1 - Outside participant">
+      <description>Outside participant</description>
+    </object>
+    <object name="CH-1 - Device">
+      <description>Device</description>
+    </object>
+    <object name="CH-1 - Condition">
+      <description>Condition</description>
+    </object>
+    <object name="CH-1 - Junction">
+      <description>Junction (AND, OR, XOR)</description>
+    </object>
+    <object name="CH-1 - Note">
+      <description>Note</description>
+    </object>
+    <object name="CH-1 - Delay">
+      <description>Delay</description>
+    </object>
+ </contents>
+</sheet>

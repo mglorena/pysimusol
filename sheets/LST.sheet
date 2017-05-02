@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+  <name>LST</name>
+  <description>Living Systems Theory</description>
+  <contents>
+<object name="LST - Associator">
+      <description>Associator Subsystem</description>
+    </object>
+<object name="LST - Channel Network">
+      <description>Channel Network Subsystem</description>
+    </object>
+<object name="LST - Converter">
+      <description>Converter Subsystem</description>
+    </object>
+<object name="LST - Supporter">
+      <description>Supporter Subsystem</description>
+    </object>
+<object name="LST - Decider">
+      <description>Decider Subsystem</description>
+    </object>
+<object name="LST - Decoder">
+      <description>Decoder</description>
+    </object>
+<object name="LST - Decode Subsystem">
+      <description>Decoder</description>
+    </object>    
+<object name="LST - Distributor">
+      <description>Distributor Subsystem</description>
+    </object>
+<object name="LST - Extruder">
+      <description>Extruder Subsystem</description>
+    </object>
+<object name="LST - Ingestor">
+      <description>Ingestor Subsystem</description>
+    </object>
+<object name="LST - Internal Transducer">
+      <description>Internal Transducer Subsystem</description>
+    </object>
+<object name="LST - Input Transducer">
+      <description>Input Transducer Subsystem</description>
+    </object>
+<object name="LST - Memory">
+      <description>Memory Subsystem</description>
+    </object>
+<object name="LST - ME Storage">
+      <description>ME Storage Subsystem</description>
+    </object>
+<object name="LST - Motor">
+      <description>Motor Subsystem</description>
+    </object>
+<object name="LST - Output Transducer">
+      <description>Output Transducer Subsystem</description>
+    </object>
+<object name="LST - Producer">
+      <description>Producer Subsystem</description>
+    </object>
+<object name="LST - Reproducer">
+      <description>Reproducer Subsystem</description>
+    </object>
+<object name="LST - Encoder">
+      <description>Encoder</description>
+    </object>
+<object name="LST - Encode Subsystem">
+      <description>Encoder Subsystem</description>
+    </object>
+<object name="LST - Timer">
+      <description>Timer</description>
+    </object>       
+  </contents>
+</sheet>

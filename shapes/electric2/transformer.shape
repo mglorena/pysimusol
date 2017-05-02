@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>electric2 - transformer</name>
+  <icon>transformer.png</icon>
+  <connections>
+    <point x="7" y="7.41563"/>
+    <point x="7" y="9.04" main="true" />
+    <point x="7" y="10.59"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:line style="stroke-width: 1;" x1="7" y1="7.76563" x2="7" y2="7.41563"/>
+    <svg:path style="stroke-width: 1;" d="M 7 7.76563 C 8,7.76563 8,9.35313 7,9.35313 C 6,9.35313 6,7.76563 7,7.76563"/>
+    <svg:path style="stroke-width: 1;" d="M 7 8.66 C 8,8.66 8,10.2281 7,10.2281 C 6,10.2281 6,8.66 7,8.66"/>
+    <svg:line style="stroke-width: 1;" x1="7" y1="10.59" x2="7" y2="10.2281"/>
+  </svg:svg>
+</shape>

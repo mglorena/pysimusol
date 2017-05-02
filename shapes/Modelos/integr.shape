@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns" xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Modelos - integr</name>
+  <icon>integr.png</icon>
+  <textbox x1="4" y1="4.7" x2="7" y2="7.7" resize="no"/>
+  <aspectratio type="fixed"/>
+  <svg:svg>
+    <svg:rect style="fill: default; fill-opacity:0; stroke-width: 0.1; stroke: #000000" x="3.3" y="3.2" width="7.2" height="6.8"/>
+    <svg:path style="fill: none; fill-opacity:0; stroke-width: 0.1; stroke: #000000" d="M 8.45 4.05 C 5.3,4 10.65,9.4 6.85,9.15"/>
+    <svg:text style="fill: #000000; font-size: 2.0; text-anchor:start; font-family: sans; font-style: normal; font-weight: normal" x="3.5" y="5" textLength="2.415">PR</svg:text>
+  </svg:svg>
+</shape>

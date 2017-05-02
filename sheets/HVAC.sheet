@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sheet xmlns="http://www.lysator.liu.se/~alla/dia/dia-sheet-ns">
+<name>HVAC</name>
+<description>Heating, ventilation and air conditioning shapes</description>
+<contents>
+<object name="HVAC - CeilingVent">
+<description>Ceiling Vent</description></object><object name="HVAC - Duct">
+<description>Duct</description></object><object name="HVAC - FloorVent">
+<description>Floor Vent</description></object><object name="HVAC - HumiditySensor">
+<description>Humidistat</description></object><object name="HVAC - InsulatedDuct">
+<description>Insulated Duct</description></object><object name="HVAC - Thermostat">
+<description>Thermostat</description></object><object name="HVAC - WallVent">
+<description>Wall Vent</description></object><object name="HVAC - 24x24Return">
+<description>Return</description></object><object name="HVAC - CeilingVentVert">
+<description>Ceiling Vent Vertical</description></object><object name="HVAC - FloorVentVert">
+<description>Floor Vent Vertical</description></object><object name="HVAC - DuctVert">
+<description>Duct Vertical</description></object><object name="HVAC - InsulatedDuctVert">
+<description>Insulated Duct Vertical</description></object><object name="HVAC - WallVentVert">
+<description>Wall Vent Vertical</description></object><object name="HVAC - 1WayDiffuser">
+<description>1-Way Diffuser</description></object><object name="HVAC - 2WayDiffuser">
+<description>2-Way Diffuser</description></object><object name="HVAC - 3WayDiffuser">
+<description>3-Way Diffuser</description></object><object name="HVAC - 4WayDiffuser">
+<description>4-Way Diffuser</description></object><object name="HVAC - VolumeDamper">
+<description>Volume Damper</description></object><object name="HVAC - VolumeDamperVert">
+<description>Volume Damper Vertical</description></object></contents></sheet>

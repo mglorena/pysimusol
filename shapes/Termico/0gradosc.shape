@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+
+<shape xmlns="http://www.daa.com.au/~james/dia-shape-ns"
+       xmlns:svg="http://www.w3.org/2000/svg">
+  <name>Termico - 0gradosc</name>
+  <icon>0gradosc.xpm</icon>
+  <connections>
+    <point x="5" y="0"/>
+  </connections>
+  <aspectratio type="fixed"/>
+  <svg:svg width="10.0" height="10.0">
+     <!--svg:text x="5.0" y="3.0">0</svg:text-->
+     <!-- previous svg:text would be useless  because of next colored ...--> 	
+     <svg:path d=" M 0,1 l 10,0 -5,4 -5,-4 z" svg:style="fill:#FFFF00"/>
+     <!-- svg:text x="5" y="3">0</svg:text sacado porque provoca crash al recargar en v.0.90 --> 	
+     <!--svg:circle cx="6.3" cy="1.8" r="0.1"/-->
+     <svg:path d="M 5,0 v 1"/> 
+     <svg:line x1="5" y1="4" x2="5" y2="10" svg:style="stroke:none"/>
+     <!-- previous svg:line it is not seen; but it contributes to an
+        adecuate initial size -->  
+  </svg:svg>
+</shape>
+
